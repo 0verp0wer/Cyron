@@ -19,8 +19,8 @@ Welcome to Project Cyron, the first vm register based challenge made by over_on_
 - Full variable and function renaming
 
 ### 🏆 Winners
-- 🥇 [Doremii109](https://github.com/Doremii109) | 2 days
-- 🥈 None
+- 🥇 [ProccessHacker](https://github.com/ProccesHacker) | 10 hours
+- 🥈 [Doremii109](https://github.com/Doremii109) | 2 days
 - 🥉 None
 
 ### 📫 Contact
